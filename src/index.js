@@ -31,3 +31,7 @@ console.log(`John's descendants: ${johnDescendants.map(p => p.name).join(', ')}`
 
 // Check John's spouse
 console.log(`${john.name}'s spouse is ${john.spouse.name}`);
+
+// Find a person by name
+const foundPerson = familyTree.findPersonByName('Mary');
+console.log(`Found person: ${foundPerson.name}, born on ${foundPerson.birthdate.toDateString()}`);
