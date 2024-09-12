@@ -18,7 +18,7 @@ family-tree/
     │        ├── Relationship.js 
     │        ├── FamilyTree.js 
     │        ├── index.js  
-    │        └── test/
+    │        └── __test__/
     │                └── descendants.test.js 
     ├── package.json 
     └── README.md
@@ -34,7 +34,7 @@ family-tree/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/family-tree.git
+git clone https://github.com/davgar2023/family-tree.git
 cd family-tree
 
 
