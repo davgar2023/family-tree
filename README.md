@@ -1,5 +1,11 @@
 # Family Tree Application
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 A simple family tree application built using Node.js, implementing class-based structures for managing people, relationships, and family tree traversal. The project includes features such as adding family members, defining relationships, retrieving descendants, and preventing duplicate connections.
 
 ## Features
